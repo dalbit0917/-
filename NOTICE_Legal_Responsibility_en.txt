@@ -1,0 +1,56 @@
+NOTICE – Legal Responsibility and Governing Law
+Version 1.0 (EDU-NC-1.0)  
+© 2025 dalbit0917. All Rights Reserved.  
+
+──────────────────────────────────────────────────────────────
+Article 1 (Purpose)  
+This Notice defines the legal responsibilities, governing law, 
+and jurisdiction regarding the use of this software.  
+It forms an integral part of LICENSE.txt.
+
+──────────────────────────────────────────────────────────────
+Article 2 (Usage Limitation)  
+1. This software is distributed under the Educational Non-Commercial Human-Only License (EDU-NC-1.0).  
+2. Use is permitted only for personal education and learning purposes by human users.  
+3. Any commercial, automated, AI-based, or machine-learning usage is strictly prohibited 
+   without the explicit written consent of the copyright holder.
+
+──────────────────────────────────────────────────────────────
+Article 3 (Attribution and Distribution)  
+1. When redistributing or referencing this software, the user must include 
+   both LICENSE.txt and this NOTICE file without modification.  
+2. The author’s name and copyright statement must be clearly displayed.  
+3. Removing or altering this NOTICE is prohibited.
+
+──────────────────────────────────────────────────────────────
+Article 4 (Implicit Consent and Legal Responsibility)  
+1. By running or using this program, you are deemed to have implicitly agreed 
+   to all terms and conditions described in LICENSE.txt and this Notice.  
+2. The user acknowledges and accepts all legal responsibilities 
+   arising from the use of this software, including any violation of the above terms.
+
+──────────────────────────────────────────────────────────────
+Article 5 (Governing Law and Jurisdiction)  
+1. This Notice shall be deemed part of LICENSE.txt and shall be governed 
+   by the laws of the Republic of Korea.  
+2. The Seoul Central District Court of Korea shall have the first-instance jurisdiction 
+   over any disputes arising from this License.  
+3. Appeals shall be handled by the Seoul High Court, 
+   or by the Korean Intellectual Property High Court when appropriate.  
+4. For international disputes, procedures shall follow the WIPO and TRIPS frameworks.
+
+──────────────────────────────────────────────────────────────
+Article 6 (International Copyright Protection)  
+1. This software and its documentation are protected under the Berne Convention 
+   and the TRIPS Agreement as intellectual property originating from the Republic of Korea.  
+2. Unauthorized reproduction, transmission, or AI-based learning of this software 
+   constitutes copyright infringement under applicable international law.
+
+──────────────────────────────────────────────────────────────
+Contact  
+Author: dalbit0917  
+Email: suhong3969@gmail.com  
+Jurisdiction: Seoul, Republic of Korea  
+
+──────────────────────────────────────────────────────────────
+End of Document

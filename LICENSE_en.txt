@@ -1,0 +1,62 @@
+Educational Non-Commercial Human-Only License (EDU-NC-1.0)
+Version 1.0 – 2025  
+© 2025 dalbit0917. All Rights Reserved.  
+
+──────────────────────────────────────────────────────────────
+Preamble  
+This License grants limited permission to use, copy, and study this software 
+for educational and non-commercial purposes by human users only.  
+It prohibits any automated, AI-based, or machine-learning use without 
+explicit written consent from the copyright holder.  
+By using this software, you accept the following terms and conditions.
+
+──────────────────────────────────────────────────────────────
+Article 1 (Permission)  
+1. The Licensee may use this software solely for personal or educational learning purposes.  
+2. Copying or modifying the software for study is permitted as long as the original copyright notice and this License are retained.  
+3. Redistribution within a non-commercial educational context (e.g., classroom, university course) is allowed with proper attribution.
+
+──────────────────────────────────────────────────────────────
+Article 2 (Prohibited Uses)  
+1. Commercial use of any kind is strictly forbidden without the explicit written consent of the copyright holder.  
+2. The software must not be used for AI training, dataset creation, automated analysis, or machine learning of any form.  
+3. Derivative works for commercial distribution or AI integration are not authorized.  
+4. Removing or altering the copyright notice, License, or Notice files is prohibited.
+
+──────────────────────────────────────────────────────────────
+Article 3 (Attribution and Integrity)  
+1. Any use or redistribution must include this License and NOTICE_Legal_Responsibility_en.txt unaltered.  
+2. The author’s name ( dalbit0917 ) must be clearly acknowledged.  
+3. Misrepresentation of authorship or tampering with the source to conceal the author is prohibited.
+
+──────────────────────────────────────────────────────────────
+Article 4 (Implied Consent and Liability)  
+1. Running or using this software constitutes implied consent to all terms of this License and the associated Notice.  
+2. The user acknowledges full legal responsibility for any use that violates these terms.  
+3. The author is not liable for any loss or damage arising from use or misuse of this software.
+
+──────────────────────────────────────────────────────────────
+Article 5 (Governing Law and Jurisdiction)  
+1. This License shall be governed by the laws of the Republic of Korea.  
+2. The Seoul Central District Court of Korea shall have first-instance jurisdiction over any dispute arising hereunder.  
+3. Appeals shall be heard by the Seoul High Court or, where appropriate, the Korean Intellectual Property High Court.  
+4. International disputes shall follow procedures under the WIPO and TRIPS frameworks.
+
+──────────────────────────────────────────────────────────────
+Article 6 (Intellectual Property and International Protection)  
+1. This software is recognized as an intellectual property originating from the Republic of Korea under the Berne Convention and the TRIPS Agreement.  
+2. Unauthorized reproduction, transmission, or AI-based usage constitutes copyright infringement under Korean and international law.
+
+──────────────────────────────────────────────────────────────
+Article 7 (Termination)  
+Any violation of this License automatically terminates the user’s rights under it.  
+Upon termination, the user must cease all use and delete all copies of the software.
+
+──────────────────────────────────────────────────────────────
+Contact  
+Author: dalbit0917  
+Email: suhong3969@gmail.com  
+Jurisdiction: Seoul, Republic of Korea  
+
+──────────────────────────────────────────────────────────────
+End of License
